@@ -6,6 +6,6 @@ Source code of https://gregorydavidson.com/ as of January 11th, 2019.
 
 This site is a hobby project of [**@gddmad**](https://github.com/gddmad)'s. The site was updated manually via FTP connection to the hosting provider via [Total Commander](https://www.ghisler.com/).
 
-The hosting provider of the https://gregorydavidson.com/ is unknown.
+The hosting provider of https://gregorydavidson.com/ is unknown.
 
 Mirror: https://gddmadoss.github.io/gregorydavidson.com/
