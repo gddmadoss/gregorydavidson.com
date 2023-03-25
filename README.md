@@ -8,4 +8,6 @@ This site is a hobby project of [**@gddmad**](https://github.com/gddmad)'s. The 
 
 The hosting provider of https://gregorydavidson.com/ is unknown.
 
-Mirror: https://gddmadoss.github.io/gregorydavidson.com/
+## Deployed mirrors
+
+- https://gregorydavidson.deno.dev/
