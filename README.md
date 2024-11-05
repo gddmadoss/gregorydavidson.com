@@ -1,6 +1,6 @@
-# gregorydavidson.com
+# [gregorydavidson.com](https://gregorydavidson.com/)
 
-Source code of https://gregorydavidson.com/ as of January 11th, 2019.
+Source code of <https://gregorydavidson.com/> as of January 11th, 2019.
 
 ## Information
 
@@ -12,4 +12,4 @@ The hosting provider of https://gregorydavidson.com/ is unknown.
 
 ## Deployed mirrors
 
-- https://gregorydavidson.deno.dev/
+- <https://gddmadoss.github.io/gregorydavidson.com/2019>

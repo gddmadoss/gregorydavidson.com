@@ -1,5 +1,0 @@
-{
-  "tasks": {
-    "serve": "deno run -A main.ts"
-  }
-}
